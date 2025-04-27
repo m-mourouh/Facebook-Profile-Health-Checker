@@ -1,9 +1,7 @@
 # Facebook Profile Health Checker - Chrome Web Store Listing
 
-## Short Description (132 characters max)
+## Description
 Monitor your Facebook account health, page status, and restrictions - check everything with one click from an organized dashboard.
-
-## Detailed Description
 
 ### Facebook Profile Health Checker
 
